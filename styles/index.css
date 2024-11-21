@@ -1,0 +1,204 @@
+body {
+    background-color: #eafdfc;
+    margin: auto auto 0 auto;
+    color: #2b3467;
+    text-align: center;
+    font-family: "Merriweather", serif;
+  }
+  
+  h2 {
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  h3 {
+    height: 2.2rem;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  hr {
+    border: dotted;
+    border-top: 0;
+    height: 0;
+    width: 10%;
+    border-width: 18px;
+    color: #bad7e9;
+    opacity: 0.6;
+  }
+  a {
+    text-decoration: none;
+    color: #144272;
+    font-family: "Merriweather", serif;
+  }
+  /*------------------------------------------------------------------------------------------------------------------*/
+  .main-img-container {
+    padding: 30px;
+  }
+  
+  .section-1 {
+    background-color: #bfeaf5;
+  }
+  
+  .top-container {
+    color: #495c83;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 20px;
+    text-align: center;
+  }
+  
+  .content-1-a {
+    font-family: "Sacramento", cursive;
+    padding: 5px;
+    margin: auto;
+    text-align: center;
+    font-size: 5rem;
+  }
+  
+  .content-1-b {
+    padding-top: 5px;
+    margin: auto;
+    font-family: "Merriweather", serif;
+    text-align: center;
+    font-size: 1.2rem;
+  }
+  
+  .ul {
+    text-decoration: underline;
+  }
+  
+  .dolphin-img {
+    width: 40%;
+  }
+  
+  .isle-img {
+    display: flexbox;
+    width: 40%;
+    opacity: 0.7;
+  }
+  .sun-img {
+    display: flexbox;
+    width: 18%;
+    opacity: 0.7;
+  }
+  /*------------------------------------------------------------------------------------------------------*/
+  .section-2 {
+    margin: 1rem;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  .profile {
+    width: 20%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .intro {
+    padding: 5px;
+    margin-top: 1rem;
+    margin-bottom: 1 rem;
+  }
+  /*------------------------------------------------------------------------------------------------------*/
+  .section-3-a {
+    text-align: center;
+    padding-bottom: 10px;
+  }
+  
+  .section-3-b {
+    text-align: center;
+    margin: auto;
+  }
+  .div-margin {
+    margin: 30px auto 50px auto;
+  }
+  .size-3 {
+    font-size: 2rem;
+  }
+  
+  .section-odd {
+    float: left;
+    margin-left: 8rem;
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: right;
+  }
+  .section-even {
+    float: right;
+    margin-right: 8rem;
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: left;
+  }
+  
+  .skill-img-odd {
+    width: 15%;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+  }
+  .skill-img-even {
+    width: 15%;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+  }
+  /*------------------------------------------------------------------------------------------------------*/
+  .bottom-container {
+    padding: 20px;
+    background-color: #caf0f8;
+    font-size: 0.8rem;
+    border-spacing: 2rem;
+  }
+  .margin-bottom {
+    margin: 2rem auto 1rem auto;
+  }
+  .btn {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    color: #144272;
+    font-size: 20px;
+    background: #91d8e4;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border-style: none;
+    font-family: "Merriweather", serif;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+  }
+  
+  .btn:hover {
+    background: #bccef8;
+    text-decoration: none;
+  }
+  .footer-link {
+    padding: 15px;
+    margin-bottom: 10px;
+  }
+  /*.top-container{
+      height: 200px;
+      width: 200px;
+      background-color: red;
+      margin: 0;
+      padding: 20px;
+      border: 10px solid black;
+         
+  }
+  .mid-container{
+      height: 200px;
+      width: 200px;
+      background-color: green;
+      margin-left: 260px;
+      border: 20px solid black;
+        
+  }
+  .bottom-container{
+      height: 200px;
+      width: 200px;
+      background-color: yellow;
+      margin-left: 500px;
+      border: 10px solid black;
+  
+  }*/
